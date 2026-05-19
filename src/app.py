@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌍 Spatial Analytics & Environmental Monitoring Dashboard")
+st.title("Spatial Analytics & Environmental Monitoring Dashboard")
 st.markdown("""
 This dashboard showcases interactive visualization capabilities for geospatial data metrics, 
 proving structural data manipulation and presentation pipelines independent of proprietary research.
