@@ -41,4 +41,4 @@ with col2:
     )
     st.line_chart(chart_data)
 
-st.success("Dashboard components initialized successfully!")
+st.success("Dashboard components initialized successfully!")"# spatial-analytics-dashboard" 
