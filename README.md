@@ -1,18 +1,18 @@
-Spatial Analytics & Environmental Dashboard
+# Spatial Analytics & Environmental Monitoring Dashboard
 
-An interactive web application built with Python and Streamlit designed to demonstrate independent spatial data visualization, metric distribution analysis, and modern dashboard prototyping.
+An interactive web application built with Python and Streamlit designed to demonstrate decoupled spatial metric visualization, dynamic data plotting, and rapid prototyping workflows.
 
-Tech Stack & Skills Displayed
-Language: Python
-Framework: Streamlit (Web UI Framework)
-Data Handling: Pandas, NumPy
-Core Skills: Geospatial visualization mapping, interactive UI component design, decoupled data architecture.
+## 🛠️ Tech Stack & Skills Displayed
+* **Language:** Python
+* **Framework:** Streamlit (Web UI)
+* **Data Core:** Pandas, NumPy
+* **Core Competencies:** Interactive coordinate mapping, slider-driven dataset filtering, multi-column dashboard design, and isolated system dependency handling.
 
-How to Run Locally
-1. Clone this repository.
-2. Install dependencies: `pip install streamlit pandas numpy`
-3. Launch the dashboard: `streamlit run src/app.py`
-"# spatial-analytics-dashboard" 
-"# spatial-analytics-dashboard" 
-"# spatial-analytics-dashboard" 
-"# spatial-analytics-dashboard" 
+## Repository Structure
+```text
+spatial-analytics-dashboard/
+│
+├── .gitignore          # Prevents heavy data caches from cluttering version history
+├── README.md           # Project abstract, methodology, and execution guide
+└── src/
+    └── app.py          # Main entry point for the Streamlit dashboard layout

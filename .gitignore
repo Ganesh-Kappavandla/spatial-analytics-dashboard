@@ -1,0 +1,11 @@
+# Python environment and system cache files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Exclude all local data files/folders
+data/*
+!data/.gitkeep
